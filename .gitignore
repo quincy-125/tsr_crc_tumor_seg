@@ -1,0 +1,13 @@
+.Rhistory
+R/inputs
+.RData
+__pycache__
+.ipynb_checkpoints
+notebooks/run_beam.sh
+*egg-info
+.vscode
+.env
+*.svs
+*.tiff
+*.geojson
+*.json

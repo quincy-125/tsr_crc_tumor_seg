@@ -1,4 +1,4 @@
-Implementation of [Unsupervised Learning of Anomaly Detection from Contaminated Image Data using Simultaneous Encoder Training](https://arxiv.org/abs/1905.11034).
+Implementation of Using an Anomaly Detection Approach for the Segmentation of  Colorectal Cancer Tumors in Whole Slide Images.
 
 # General Instruction
 

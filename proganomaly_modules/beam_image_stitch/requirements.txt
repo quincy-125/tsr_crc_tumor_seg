@@ -1,0 +1,11 @@
+opencv-python-headless
+openslide-python
+matplotlib
+scikit-image
+shapely
+geojson
+python-dotenv
+geopandas
+rtree
+pygeos
+pyfarmhash

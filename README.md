@@ -1,5 +1,9 @@
 Implementation of Using an Anomaly Detection Approach for the Segmentation of  Colorectal Cancer Tumors in Whole Slide Images.
 
+To use our codebase, you must cite the following publication:
+
+[Gu Q., Meroueh C., Levernier JG., Kroneman T., Flotte T., Hart SN. Using an Anomaly Detection Approach for the Segmentation of Colorectal Cancer Tumors in Whole Slide Images. MedRxiv. 2023](https://www.medrxiv.org/content/10.1101/2023.07.17.23292768v1)
+
 # General Instruction
 
 Checking [documentation folder](documentation) for instructions on how to train and evaluate the model either on Mayo Clinic Internal Dataset (if have access) or custom datasets. 
